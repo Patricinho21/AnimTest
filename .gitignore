@@ -1,6 +1,13 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Folders
+AnimTest/Saved
+AnimTest/Intermediate
+AnimTest/DerivedDataCache
+AnimTest/Binaries
+AnimTest/Build
+
 # Compiled Object files
 *.slo
 *.lo
